@@ -1,0 +1,4 @@
+﻿    interface ISwap
+    {
+        void SwapCharacters();
+    }
